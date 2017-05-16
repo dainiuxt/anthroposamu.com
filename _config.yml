@@ -3,7 +3,7 @@ name: Anthroposamu
 bio: Amateur EDM DJ
 
 # twitter summary info
-description: My warm welcome to the world and music
+# description: My warm welcome to the world and music
 
 # if it's an external image, update below for true
 # better with square images
@@ -77,11 +77,11 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+blog: false
 
 # do you want to show the "read time" of the posts?
 read-time: true
