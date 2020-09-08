@@ -1,6 +1,6 @@
 # main text of home
 name: Anthroposamu
-bio: Amateur EDM DJ
+bio: Beginner Ruby on Rails dev
 
 # twitter summary info
 # description: My warm welcome to the world and music
@@ -31,21 +31,21 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: mydisqus # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: [ ] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: Anthroposamu
-twitter: Anthroposamu
+# facebook: Anthroposamu
+# twitter: Anthroposamu
 # google: mygoogle
-instagram: Anthroposamu
+# instagram: Anthroposamu
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
 # github: mygithub
-lastfm: Anthroposamu
-soundcloud: Anthroposamu
-mixcloud: Anthroposamu
+# lastfm: Anthroposamu
+# soundcloud: Anthroposamu
+# mixcloud: Anthroposamu
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
@@ -56,7 +56,7 @@ email: anthroposamu@gmail.com
 authors:
     anthroposamu:
         name: Anthroposamu
-        bio: Amateur EDM DJ
+        bio: Learning RoR dev
         external-image: false
         picture: assets/images/profile.jpg
         twitter: Anthroposamu
@@ -73,15 +73,15 @@ authors:
 width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
-# paginate: 5
-# paginate_path: "blog/:num/"
+paginate: 5
+paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: false
+# projects: false
 
 # if you don't need "about" or "blog", comment them out below
-about: true
-blog: false
+# about: true
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
@@ -99,7 +99,7 @@ post-advance-links: [blog]
 show-author: true
 
 # do you want some animations?
-animation: true
+animation: false
 
 gems:
   - jekyll-seo-tag
