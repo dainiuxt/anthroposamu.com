@@ -7,7 +7,7 @@ headerImage: false
 tag:
 - markdown
 - elements
-star: true
+# star: true
 hidden: true # don't count this post in blog pagination
 category: blog
 author: johndoe
