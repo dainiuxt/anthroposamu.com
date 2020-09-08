@@ -9,7 +9,8 @@ tag:
 - elements
 # star: true
 hidden: true # don't count this post in blog pagination
-category: draft
+category: blog
+published: false
 author: johndoe
 description: Markdown summary with different options
 ---

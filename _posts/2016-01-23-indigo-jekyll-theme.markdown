@@ -8,7 +8,8 @@ headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
-category: draft
+category: blog
+published: false
 author: johndoe
 externalLink: false
 ---
