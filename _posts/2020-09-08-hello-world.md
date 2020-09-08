@@ -16,4 +16,4 @@ Computers are not aliens to me. First *rendezvous* was back in early 1990's duri
 
 At university I used Borland QuatroPro for statistical analysis and both FoxPro and Paradox databases on various XT and AT computers. During early 2000's I got familiar with blogging and WordPress and gained some basic PHP, HTML and CSS understandings, had some side projects to create WordPress sites. Recently I used R and RStudio for data management and visualization in my Petroleum engineering jobs and took some FreeCodeCamp and Udemy courses on Web development (HTML, CSS, JS, D3), Ruby and Ruby on Rails.
 
-I see my path to start career in webdev as some side projects in the beginning, also some remote internship could be considerable options.  If you would like to join me in this journey, or if you have anything to propose, just drop an email **anthroposamu at gmail dotcom**.
+I see my path to start career in webdev as some side projects in the beginning, also some remote internship could be considerable options.  If you would like to join me in this journey, or if you have anything to propose, just drop an email to **anthroposamu at gmail dotcom**.
