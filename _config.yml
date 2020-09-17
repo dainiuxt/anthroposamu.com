@@ -1,3 +1,7 @@
+#Enabling HTTPS sitewide
+
+url: "//anthroposamu.com"
+
 # main text of home
 name: Anthroposamu
 bio: Beginner Ruby on Rails dev
